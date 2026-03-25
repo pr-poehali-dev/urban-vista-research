@@ -390,7 +390,7 @@ export default function ClientProposal() {
               </div>
               <div>
                 <h1 className="text-xl sm:text-2xl font-bold text-foreground leading-tight">
-                  РЖД-Платформа
+                  ПромТрансПуть
                 </h1>
                 <p className="text-xs sm:text-sm text-muted-foreground">Цифровое управление путевым хозяйством</p>
               </div>
@@ -402,7 +402,7 @@ export default function ClientProposal() {
               </div>
               <div className="flex items-center space-x-2 text-xs sm:text-sm text-muted-foreground">
                 <Phone className="h-4 w-4 flex-shrink-0" />
-                <span>+7 (495) 000-00-00</span>
+                <span>+7 (914) 574-96-37</span>
               </div>
               <div className="flex items-center space-x-2 text-xs sm:text-sm text-muted-foreground">
                 <Mail className="h-4 w-4 flex-shrink-0" />
@@ -703,20 +703,16 @@ export default function ClientProposal() {
                 <h4 className="font-semibold text-foreground text-lg">Структура тарифов</h4>
                 <div className="space-y-4">
                   <div className="flex justify-between items-center p-4 bg-muted rounded-lg">
-                    <span className="text-sm font-medium">Базовый (до 50 пользователей)</span>
-                    <span className="text-sm font-semibold">от 150 000 ₽/год</span>
+                    <span className="text-sm font-medium">Замена шпал (10 шт.)</span>
+                    <span className="text-sm font-semibold">20 000 ₽</span>
                   </div>
                   <div className="flex justify-between items-center p-4 bg-muted rounded-lg">
-                    <span className="text-sm font-medium">Профессиональный (до 200 пользователей)</span>
-                    <span className="text-sm font-semibold">от 480 000 ₽/год</span>
+                    <span className="text-sm font-medium">Выправка пути ЭШП (10 м)</span>
+                    <span className="text-sm font-semibold">30 000 ₽</span>
                   </div>
                   <div className="flex justify-between items-center p-4 bg-muted rounded-lg">
-                    <span className="text-sm font-medium">Корпоративный (без ограничений)</span>
-                    <span className="text-sm font-semibold">Индивидуально</span>
-                  </div>
-                  <div className="flex justify-between items-center p-4 bg-muted rounded-lg">
-                    <span className="text-sm font-medium">Внедрение и настройка (разово)</span>
-                    <span className="text-sm font-semibold">от 80 000 ₽</span>
+                    <span className="text-sm font-medium">Другие виды работ</span>
+                    <span className="text-sm font-semibold">По договору</span>
                   </div>
                 </div>
                 <div className="bg-primary/5 p-4 rounded-lg border border-primary/20">
@@ -986,7 +982,7 @@ export default function ClientProposal() {
                     Данное предложение действительно 30 дней с момента получения.
                   </p>
                   <p className="text-sm text-muted-foreground leading-relaxed">
-                    Подготовлено командой РЖД-Платформа · info@railway-platform.ru · +7 (495) 000-00-00
+                    Подготовлено командой ПромТрансПуть · +7 (914) 574-96-37
                   </p>
                 </div>
               </div>
