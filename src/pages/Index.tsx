@@ -398,7 +398,7 @@ export default function ClientProposal() {
             <div className="text-left sm:text-right space-y-1 w-full sm:w-auto">
               <div className="flex items-center space-x-2 text-xs sm:text-sm text-muted-foreground">
                 <MapPin className="h-4 w-4 flex-shrink-0" />
-                <span>Москва, ул. Новая Басманная, 2</span>
+                <span>г. Тында, ул. Спортивная, 18</span>
               </div>
               <div className="flex items-center space-x-2 text-xs sm:text-sm text-muted-foreground">
                 <Phone className="h-4 w-4 flex-shrink-0" />
@@ -406,7 +406,7 @@ export default function ClientProposal() {
               </div>
               <div className="flex items-center space-x-2 text-xs sm:text-sm text-muted-foreground">
                 <Mail className="h-4 w-4 flex-shrink-0" />
-                <span>info@railway-platform.ru</span>
+                <span>marysia-20.06.84@mail.ru</span>
               </div>
             </div>
           </div>
@@ -728,7 +728,7 @@ export default function ClientProposal() {
                   все возможности платформы, не принимая финансовых обязательств.
                 </p>
                 <a
-                  href="mailto:info@railway-platform.ru"
+                  href="mailto:marysia-20.06.84@mail.ru"
                   className="inline-flex items-center justify-center w-full min-h-[48px] text-base font-semibold bg-primary text-primary-foreground hover:bg-primary/90 rounded-md px-4 py-2 transition-colors"
                 >
                   Запросить пилотный доступ
@@ -946,7 +946,7 @@ export default function ClientProposal() {
 
               <div className="flex flex-col sm:flex-row gap-4 pt-4">
                 <a
-                  href="mailto:info@railway-platform.ru"
+                  href="mailto:marysia-20.06.84@mail.ru"
                   className="inline-flex items-center justify-center min-h-[48px] text-base font-semibold bg-primary text-primary-foreground hover:bg-primary/90 rounded-md px-6 py-2 transition-colors flex-1"
                 >
                   Записаться на демонстрацию
@@ -1061,7 +1061,7 @@ export default function ClientProposal() {
                     Наши эксперты готовы ответить на любые вопросы по технической части и условиям сотрудничества.
                   </p>
                   <a
-                    href="mailto:info@railway-platform.ru"
+                    href="mailto:marysia-20.06.84@mail.ru"
                     className="inline-flex items-center justify-center w-full min-h-[40px] text-sm font-semibold bg-primary text-primary-foreground hover:bg-primary/90 rounded-md px-4 py-2 transition-colors"
                   >
                     Написать нам
